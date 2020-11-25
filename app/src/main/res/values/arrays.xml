@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alcWhiskyArray">
+        <item>Jack Daniels</item>
+        <item>Red Label</item>
+        <item>Chivas Regal</item>
+        <item>Ballantine\'s</item>
+        <item>The Macallan</item>
+        <item>White Horse</item>
+        <item>The Famous Grouse</item>
+        <item>Jameson</item>
+    </string-array>
+    <string-array name="alcTypeArray">
+        <item>Виски</item>
+        <item>Коньяк</item>
+        <item>Вино</item>
+        <item>Джин</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AlcohoCompilation</string>
+    <string name="tab_about_1">Об бренде</string>
+    <string name="tab_compilation_2">Сочетания</string>
+    <string name="tab_mood_3">Под настроение</string>
+    <string name="btnSearch">Найти</string>
+    <string name="aboutText">Здесь будет располагаться информация о выбранном бренде</string>
+    <string name="aboutTextTitle">Название выбранного бренда</string>
+
+</resources>
